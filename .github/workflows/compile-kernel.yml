@@ -85,7 +85,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -@SOGEK1NG__
 
 env:
   TZ: America/New_York
