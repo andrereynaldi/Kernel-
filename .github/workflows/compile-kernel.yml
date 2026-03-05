@@ -81,7 +81,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -@Sogek1ng__
 
 env:
   TZ: Etc/UTC
